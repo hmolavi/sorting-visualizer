@@ -4,3 +4,6 @@ Allows the users to select the
 - sort algorithm
 - array size 
 - speed of the visualization.
+
+#Demo
+Live demo available on my website
