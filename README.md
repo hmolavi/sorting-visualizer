@@ -5,5 +5,5 @@ Allows the users to select the
 - array size 
 - speed of the visualization.
 
-#Demo
+# Demo
 Live demo available on my website
